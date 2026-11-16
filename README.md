@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ritobratanandi-sys/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ritobratanandi-sys/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ritobratanandi-sys/leetcode/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/ritobratanandi-sys/leetcode/tree/master/0520-detect-capital) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ritobratanandi-sys/leetcode/tree/master/0014-longest-common-prefix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritobratanandi-sys/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/ritobratanandi-sys/leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ritobratanandi-sys/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
