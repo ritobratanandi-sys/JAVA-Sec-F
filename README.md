@@ -10,8 +10,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/ritobratanandi-sys/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritobratanandi-sys/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/ritobratanandi-sys/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [2000-reverse-prefix-of-word](https://github.com/ritobratanandi-sys/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritobratanandi-sys/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+## Two Pointers
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/ritobratanandi-sys/leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/ritobratanandi-sys/leetcode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
