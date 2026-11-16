@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ritobratanandi-sys/leetcode/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/ritobratanandi-sys/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/ritobratanandi-sys/leetcode/tree/master/0709-to-lower-case) |
+| [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/ritobratanandi-sys/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritobratanandi-sys/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/ritobratanandi-sys/leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ritobratanandi-sys/leetcode/tree/master/0014-longest-common-prefix) |
+| [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritobratanandi-sys/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ritobratanandi-sys/leetcode/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
 <!---LeetCode Topics End-->
