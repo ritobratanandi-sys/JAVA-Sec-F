@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ritobratanandi-sys/leetcode/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/ritobratanandi-sys/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/ritobratanandi-sys/leetcode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/ritobratanandi-sys/leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ritobratanandi-sys/leetcode/tree/master/0125-valid-palindrome) |
 | [2000-reverse-prefix-of-word](https://github.com/ritobratanandi-sys/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
