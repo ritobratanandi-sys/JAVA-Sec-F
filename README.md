@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ritobratanandi-sys/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ritobratanandi-sys/leetcode/tree/master/0258-add-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritobratanandi-sys/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ritobratanandi-sys/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
@@ -51,8 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ritobratanandi-sys/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ritobratanandi-sys/leetcode/tree/master/0258-add-digits) |
 ## Hash Table
 |  |
 | ------- |
 | [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ritobratanandi-sys/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
