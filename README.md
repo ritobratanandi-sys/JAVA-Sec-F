@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ritobratanandi-sys/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ritobratanandi-sys/leetcode/tree/master/0014-longest-common-prefix) |
 | [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritobratanandi-sys/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ritobratanandi-sys/leetcode/tree/master/0001-two-sum) |
 | [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
 ## Number Theory
 |  |
