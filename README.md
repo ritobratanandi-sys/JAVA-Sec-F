@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritobratanandi-sys/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ritobratanandi-sys/leetcode/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0724-find-pivot-index) |
 | [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ritobratanandi-sys/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ritobratanandi-sys/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ritobratanandi-sys/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ritobratanandi-sys/leetcode/tree/master/0412-fizz-buzz) |
