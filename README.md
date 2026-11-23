@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritobratanandi-sys/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ritobratanandi-sys/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritobratanandi-sys/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ritobratanandi-sys/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritobratanandi-sys/leetcode/tree/master/0001-two-sum) |
 | [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
+| [1512-number-of-good-pairs](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1512-number-of-good-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1672-richest-customer-wealth) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
