@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritobratanandi-sys/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1051-height-checker) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Counting Sort
 |  |
