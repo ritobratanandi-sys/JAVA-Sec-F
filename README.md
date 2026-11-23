@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0867-transpose-matrix) |
 | [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ritobratanandi-sys/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ritobratanandi-sys/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ritobratanandi-sys/leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1672-richest-customer-wealth) |
 ## Counting
 |  |
