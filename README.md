@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritobratanandi-sys/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
