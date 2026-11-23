@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0724-find-pivot-index) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/ritobratanandi-sys/leetcode/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1672-richest-customer-wealth) |
 ## Counting
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0240-search-a-2d-matrix-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
