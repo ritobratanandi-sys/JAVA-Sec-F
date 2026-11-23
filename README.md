@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritobratanandi-sys/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ritobratanandi-sys/leetcode/tree/master/0014-longest-common-prefix) |
+| [0724-find-pivot-index](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0724-find-pivot-index) |
 | [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
