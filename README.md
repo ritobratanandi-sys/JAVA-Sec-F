@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ritobratanandi-sys/leetcode/tree/master/0014-longest-common-prefix) |
 | [1002-find-common-characters](https://github.com/ritobratanandi-sys/leetcode/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ritobratanandi-sys/JAVA-Sec-F/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritobratanandi-sys/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
